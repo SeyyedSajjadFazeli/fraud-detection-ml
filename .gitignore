@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+.env
+
+# Data
+data/*.csv
+
+# Models (optional)
+# اگر دوست داری مدل را نگه داری، این خط را کامنت کن
+# models/*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
